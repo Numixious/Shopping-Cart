@@ -109,4 +109,41 @@ input[type="search"]:focus {
   display: flex;
   justify-content: cetner;
   align-items: center;
+<<<<<<< HEAD
+=======
+  flex-direction: column;
+  margin: 4rem;
+}
+.itemsTitles {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.itemsTitles div {
+  margin: 0 9rem;
+}
+.itemsTitles span {
+  margin: 0 3rem;
+}
+.itemsProducts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem;
+}
+.itemsProducts div {
+  margin: 0 11rem;
+}
+hr {
+  margin: 1rem;
+}
+.nike1 {
+  width: 10%;
+  margin-left: 6rem;
+}
+.itemsTitles2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+>>>>>>> abd5ae3 (12)
 }
